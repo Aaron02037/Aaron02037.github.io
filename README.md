@@ -11,7 +11,7 @@
 	  </div>
 	  <div class="item2 item2est">
 	  Aqui esta mi pagina web alojado en github:<br/><br/>
-	  <a href="https://github.com/Aaron02037/feed">Github</a>
+	  <a href="https://Aaron02037.github.io">Github</a>
 	  <a href="./index.xml">Pagina web</a><br><br>
 	  <img src="./index.png" width="750px" height="400px"><br/><br/>
   </div>  
