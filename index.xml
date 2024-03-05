@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.msn.com/es-es/feed</id>
+    <title>Noticias</title>
+    <updated>2024-02-23T00:00:00.000Z</updated>
+    <author>
+        <name>Aaron ramirez</name>
+    </author>
+    <link href="https://www.msn.com/es-es/feed"/>
+    <subtitle>Tecnologia</subtitle>
+    <entry>
+        <id>https://www.canarias7.es/</id>
+        <title>Noticia 1</title>
+        <link href="https://www.canarias7.es/tecnologia/tecnologia-worldcoin-foto-iris-cambio-riesgo-20240223002330-ntrc.html"/>
+        <updated>2024-02-17T12:00:00Z</updated>
+		<content type="html">La tecnología de Worldcoin: una 'foto' al iris a cambio de mucho riesgo</content>
+        <summary>resumen de noticia 1</summary>
+    </entry>
+	
+    <entry>
+		<title>noticia 2</title>
+		<id>http://video.com/</id>
+		<updated>2024-02-17T12:00:00Z</updated>
+		<link href="https://github.com/Aaron02037/feed/blob/f1a46cad0c6d65713acb3a5577ff0000ab50a7ca/Y2META~1.MP4"/>
+		<author>
+		  <name>Aaron Ramirez</name>
+		  <uri>https://github.com/Aaron02037/feed/blob/f1a46cad0c6d65713acb3a5577ff0000ab50a7ca/Y2META~1.MP4</uri>
+		</author>
+		<content type="video/mp4" src="https://github.com/Aaron02037/feed/blob/f1a46cad0c6d65713acb3a5577ff0000ab50a7ca/Y2META~1.MP4"/>
+		<summary>Resumen de noticia 4</summary>
+	</entry>
+	
+	<entry>
+        <id>https://www.abc.es/</id>
+        <title>Noticia 3</title>
+        <link href="https://www.abc.es/tecnologia/sevilla/internet/buscadores-de-internet/pagina-106.html"/>
+        <updated>2024-02-17T12:00:00Z</updated>
+		<content type="html">No, WhatsApp no ha cambiado tu configuración para que cualquiera pueda meterte en un grupo</content>
+        <summary>resumen de noticia 3</summary>
+    </entry>
+	
+	<entry>
+		<title>noticia 4</title>
+		<id>https://www.msn.com/</id>
+		<updated>2024-02-17T12:00:00Z</updated>
+		<link href="https://github.com/Aaron02037/feed/blob/f1a46cad0c6d65713acb3a5577ff0000ab50a7ca/Curriculum%20Vitae.pdf"/>
+		<author>
+		  <name>Aaron Ramirez</name>
+		  <uri>https://github.com/Aaron02037/feed/blob/f1a46cad0c6d65713acb3a5577ff0000ab50a7ca/Curriculum%20Vitae.pdf</uri>
+		</author>
+		<content type="application/pdf" src="https://github.com/Aaron02037/feed/blob/f1a46cad0c6d65713acb3a5577ff0000ab50a7ca/Curriculum%20Vitae.pdf"/>
+		<summary>Resumen de noticia 4</summary>
+	</entry>
+</feed>
